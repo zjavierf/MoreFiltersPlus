@@ -38,5 +38,5 @@ A lightweight Beat Saber mod that adds custom song filters and sorters to Better
 - [SongDetailsCache](https://github.com/kinsi55/BeatSaber_SongDetails)
 
 ## Installation
-1. Download the latest release zip.
+1. Download the latest release.
 2. Drag and drop the files into your main Beat Saber directory.
