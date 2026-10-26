@@ -2,8 +2,8 @@
 
 A lightweight Beat Saber mod that adds custom song filters and sorters to BetterSongList.
 
-<details>
-<summary>Screenshots</summary>
+
+# Screenshots
 
 <img width="379" height="761" alt="image" src="https://github.com/user-attachments/assets/bea31d5d-71fe-4ef2-a2ad-9beb2d139145" />
 <img width="379" height="761" alt="image" src="https://github.com/user-attachments/assets/446825ec-30d7-4b50-b8dd-59c6f0ae82ef" />
